@@ -1,6 +1,6 @@
 import { motion, useScroll, useTransform, useMotionValue, useSpring } from 'framer-motion';
 import { Sparkles, ArrowRight } from 'lucide-react';
-import { useRef, useState, useEffect } from 'react';
+import { useRef } from 'react';
 import FloatingShapes from './FloatingShapes';
 
 // --- MAGNETIC BUTTON COMPONENT ---
